@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Film.Client.props" />
+</Project>
